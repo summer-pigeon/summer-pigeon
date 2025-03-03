@@ -1,5 +1,5 @@
 ## Hi there 👋
-![](https://github.com/summer-pigeon/summer-pigeon/blob/main/images/0202.png)
+![0202](image/0202.png)
 <!--
 **summer-pigeon/summer-pigeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
