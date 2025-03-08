@@ -1,7 +1,18 @@
 ## Hi there 👋
 ## 嗨 你好 👋
 ## QWQ 
+<style>
+@keyframes blink {
+  0% { opacity: 1; }
+  50% { opacity: 0; }
+  100% { opacity: 1; }
+}
+.blink {
+  animation: blink 1s infinite;
+}
+</style>
 
+<span class="blink">✨ 我会闪烁的文字 ✨</span>
 <!--
 **summer-pigeon/summer-pigeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
